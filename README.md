@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sanga
+- 👋 Hi, I’m sanga
 - 👀 I’m interested in Frontend Web Development
 - 🌱 I’m currently learning react,node.js
 - 💞️ I’m looking to collaborate on everything related Front end development
